@@ -1,6 +1,6 @@
 # Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
 <h2>Description</h2>
-
+Concevoir et réaliser un tableau de bord interactif dans Power BI pour Sanitoral, permettant de suivre l’avancement et les coûts des projets, d’identifier les retards et de contrôler les performances, avec un nettoyage automatique des données via Power Query. Le tableau de bord devra être clair, visuel et inclure un onglet explicatif sur le Product Strategy Canvas, le processus de mise à jour des données et le modèle de données.
 
 <br />
 
